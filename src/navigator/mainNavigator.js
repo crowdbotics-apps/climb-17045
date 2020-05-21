@@ -12,7 +12,6 @@ import Maps45821Navigator from '../features/Maps45821/navigator';
 import Add-Item45817Navigator from '../features/Add-Item45817/navigator';
 import Maps45816Navigator from '../features/Maps45816/navigator';
 import UserProfile45776Navigator from '../features/UserProfile45776/navigator';
-import Maps45772Navigator from '../features/Maps45772/navigator';
 import Add-Item45768Navigator from '../features/Add-Item45768/navigator';
 import Maps45767Navigator from '../features/Maps45767/navigator';
 import MessengerNavigator from '../features/Messenger/navigator';
@@ -38,7 +37,6 @@ Maps45821: { screen: Maps45821Navigator },
 Add-Item45817: { screen: Add-Item45817Navigator },
 Maps45816: { screen: Maps45816Navigator },
 UserProfile45776: { screen: UserProfile45776Navigator },
-Maps45772: { screen: Maps45772Navigator },
 Add-Item45768: { screen: Add-Item45768Navigator },
 Maps45767: { screen: Maps45767Navigator },
 Messenger: { screen: MessengerNavigator },
